@@ -1,3 +1,6 @@
+# Purpose
+created as a repro for [issue](https://github.com/microsoft/playwright/issues/9444) 
+
 # playwright-threshold
 run `npm i`
 
