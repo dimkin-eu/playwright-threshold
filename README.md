@@ -12,3 +12,4 @@ test are passing/failing in the same way for
 - chrome with bigger diff
 
 so main idea is - there is no way to not fail on subtle diffs but fail on major ones
+<img width="502" alt="Screenshot 2021-10-12 at 11 32 57" src="https://user-images.githubusercontent.com/7899764/136921399-445d1804-1bc0-4775-a9ba-efc006267dd9.png">
